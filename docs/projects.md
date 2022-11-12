@@ -6,4 +6,4 @@ Queries the DuckDuckGo API and confirms every US president is listed in the resp
 
 See the repo [here](https://github.com/aweglar/president-tester).
 
-![president-tester-repo](./assets/president-tester.png)
+![president-tester-repo](./assets/president-tester.PNG)
